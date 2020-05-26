@@ -1,0 +1,13 @@
+daysUntilStale: 5
+daysUntilClose: 5
+
+exemptLabels:
+  - pinned
+
+staleLabel: Stale
+
+markComment: >
+  This PR has been automatically marked as stale because it has not had
+  any activity in past 5 days. It will be closed in next 5 days if no further activity occurs.
+closeComment: >
+  This PR has been automatically closed as it had been stale for 5 long days due to inactivity.

@@ -1,0 +1,41 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  labels:
+  - dependabot
+  ignore:
+  - dependency-name: "@types/eslint"
+    versions:
+    - 7.2.6
+    - 7.2.7
+    - 7.2.8
+    - 7.2.9
+  - dependency-name: eslint-plugin-react
+    versions:
+    - 7.22.0
+    - 7.23.0
+    - 7.23.1
+  - dependency-name: "@types/prettier"
+    versions:
+    - 2.1.6
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+  - dependency-name: typescript
+    versions:
+    - 3.9.7
+    - 3.9.8
+  - dependency-name: eslint-plugin-prettier
+    versions:
+    - 3.3.1
+  - dependency-name: lint-staged
+    versions:
+    - 10.5.3
+  - dependency-name: lodash
+    versions:
+    - 4.17.20

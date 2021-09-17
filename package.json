@@ -56,7 +56,7 @@
     "eslint-plugin-react-hooks": "^2.5.1",
     "husky": "^7.0.2",
     "lint-staged": "^10.0.7",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.12",
     "post-merge-install": "^0.5.1",
     "prettier": "^1.19.1",
     "ts-node": "^9.1.1",

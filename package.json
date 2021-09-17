@@ -54,7 +54,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.25.2",
     "eslint-plugin-react-hooks": "^2.5.1",
-    "husky": "^4.2.1",
+    "husky": "^7.0.2",
     "lint-staged": "^10.0.7",
     "nodemon": "^2.0.2",
     "post-merge-install": "^0.5.1",

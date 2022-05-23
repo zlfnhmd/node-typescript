@@ -59,7 +59,7 @@
     "nodemon": "^2.0.12",
     "post-merge-install": "^0.5.1",
     "prettier": "^2.4.1",
-    "ts-node": "^10.2.1",
+    "ts-node": "^10.8.0",
     "typescript": "^4.4.3"
   }
 }
